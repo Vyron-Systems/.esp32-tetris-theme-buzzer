@@ -1,4 +1,4 @@
-/* * TETRIS THEME (Korobeiniki) - FEHLERFREI
+/* * TETRIS THEME (Korobeiniki) - 
  * Im professionellen Klassen-Style für den ESP32-S3 an Pin 4
  */
 
